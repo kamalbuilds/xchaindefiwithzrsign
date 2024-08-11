@@ -18,7 +18,8 @@ contract ZrSignOApp is OApp {
     error UnauthorizedWalletOwner(bytes32);
     error ZrSignInteractionFailed();
 
-    bytes32 public constant EVM_WALLET_TYPE_ID = 0xe146c2986893c43af5ff396310220be92058fb9f4ce76b929b80ef0d5307100a; // keccak256(abi.encode(ChainInfo{purpose:44 coinType: 60}));
+    bytes32 public constant EVM_WALLET_TYPE_ID = 0xe146c2986893c43af5ff396310220be92058fb9f4ce76b929b80ef0d5307100a; 
+    // keccak256(abi.encode(ChainInfo{purpose:44 coinType: 60}));
 
     uint256 walletIndexCounter;
 
