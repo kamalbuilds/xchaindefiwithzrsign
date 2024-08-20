@@ -1,4 +1,7 @@
 # XChain Defi using MPC powered by ZrSign
 
-Architecture Diagram For the ZChainDefi
-![image](https://github.com/user-attachments/assets/45699270-2189-4d23-8914-9de2b8184615)
+### Architecture Diagram For the XChainDefi
+
+![image](https://github.com/user-attachments/assets/ed8911a5-3498-4c26-8add-1f6a368af210)
+
+### Demo Video 
