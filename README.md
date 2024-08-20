@@ -8,6 +8,12 @@
 
 OmniDeFi is a cutting-edge decentralized finance platform that allows users to lend, borrow, and earn interest on assets across multiple blockchains. By leveraging LayerZero's omnichain capabilities and ZrSign's cross-chain transaction management, OmniDeFi ensures seamless, secure, and efficient asset transfer and management across various blockchain networks.
 
+### Architecture Diagram For the XChainDefi
+
+![image](https://github.com/user-attachments/assets/ed8911a5-3498-4c26-8add-1f6a368af210)
+
+### Demo Video 
+
 ## **Features**
 
 - **Cross-Chain Lending & Borrowing:** Lend and borrow assets across different blockchain networks seamlessly.
