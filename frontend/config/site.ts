@@ -9,9 +9,13 @@ export const siteConfig = {
       title: "Home",
       href: "/",
     },
+    {
+      title: "Omnidefi",
+      href: "/omnidefi",
+    }
   ],
   links: {
-    twitter: "https://twitter.com/shadcn",
+    twitter: "https://twitter.com/0xkamal7",
     github: "https://github.com/shadcn/ui",
     docs: "https://ui.shadcn.com",
   },
