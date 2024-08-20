@@ -29,11 +29,11 @@ export default function landing() {
                 </div>
               </div>
               <img
-                src="/placeholder.svg"
+                src="/hero.png"
                 width="550"
                 height="550"
                 alt="Hero"
-                className="mx-auto aspect-video overflow-hidden rounded-xl object-cover sm:w-full lg:order-last lg:aspect-square"
+                className="mx-auto overflow-hidden rounded-xl object-contain sm:w-full lg:order-last lg:aspect-square"
               />
             </div>
           </div>
@@ -59,7 +59,7 @@ export default function landing() {
                   <h3 className="text-xl font-bold">Cross-Chain Capabilities</h3>
                 </div>
                 <p className="text-muted-foreground">
-                  Seamlessly lend, borrow, and earn interest across multiple blockchain networks with OmniDeFi's
+                  Seamlessly lend, borrow, and earn interest across multiple blockchain networks with OmniDeFi&apos;s
                   cross-chain functionality.
                 </p>
               </div>
@@ -69,7 +69,7 @@ export default function landing() {
                   <h3 className="text-xl font-bold">Secure Collateral Management</h3>
                 </div>
                 <p className="text-muted-foreground">
-                  Enjoy peace of mind with OmniDeFi's robust collateral management system, ensuring the safety of your
+                  Enjoy peace of mind with OmniDeFi&apos;s robust collateral management system, ensuring the safety of your
                   assets.
                 </p>
               </div>
@@ -105,11 +105,11 @@ export default function landing() {
                   <h3 className="text-xl font-bold">Lending & Borrowing</h3>
                 </div>
                 <p className="text-muted-foreground">
-                  <strong>Lending:</strong> Users can deposit their assets into OmniDeFi's lending pools. These assets
+                  <strong>Lending:</strong> Users can deposit their assets into OmniDeFi&apos;s lending pools. These assets
                   are then available for borrowers who can take out loans by providing sufficient collateral.
                   <br />
                   <strong>Borrowing:</strong> Users request loans by locking up collateral. The system checks the
-                  collateral's sufficiency before approving the loan. Once approved, the loan is issued, and the
+                  collateral&apos;s sufficiency before approving the loan. Once approved, the loan is issued, and the
                   borrower receives the funds.
                 </p>
               </div>
@@ -123,7 +123,7 @@ export default function landing() {
                   keys are essential for performing transactions across different blockchain networks.
                   <br />
                   <strong>ZrSign Transaction Request:</strong> Users initiate cross-chain transactions by sending a
-                  transaction request through ZrSign. The platform verifies the user's ownership and authorizes the
+                  transaction request through ZrSign. The platform verifies the user&apos;s ownership and authorizes the
                   transaction if valid.
                 </p>
               </div>

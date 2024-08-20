@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Next.js",
+  name: "OmniDefi",
   description:
-    "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+    "Make defi actions anywhere on any chain",
   mainNav: [
     {
       title: "Home",
@@ -15,8 +15,7 @@ export const siteConfig = {
     }
   ],
   links: {
-    twitter: "https://twitter.com/0xkamal7",
-    github: "https://github.com/shadcn/ui",
+    twitter: "https://x.com/0xkamal7",
     docs: "https://ui.shadcn.com",
   },
 }
