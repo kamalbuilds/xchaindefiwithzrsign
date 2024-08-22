@@ -122,8 +122,8 @@ The **OmniDefi** smart contract exemplifies a secure, scalable, and flexible app
 
 ### **2. Clone the Repository:**
 ```bash
-git clone https://github.com/your-repo/omnidefi.git
-cd omnidefi
+git clone https://github.com/kamalbuilds/xchaindefiwithzrsign
+cd xchaindefiwithzrsign
 ```
 
 ### **3. Install Dependencies:**
